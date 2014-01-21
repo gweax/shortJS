@@ -10,7 +10,7 @@ Sort of a JS1K with reversed goals. JS1k is to stuff as many presents as possibl
 
 ## The problems
 
-### Get a random string of characters
+### Get a random string of characters (current best: 100 Chars)
 
 Implement the following function:
 
