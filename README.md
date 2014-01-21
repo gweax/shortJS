@@ -23,5 +23,5 @@ Implement the following function:
     function getRandomString(len) {
 
     }
-    
 
+Don't change the function signature, don't change parameter names, just implement the function body.
