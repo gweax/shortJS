@@ -15,6 +15,7 @@ Sort of a JS1K with reversed goals. JS1k is to stuff as many presents as possibl
 - Only implement the function body. Don't change the signature. Don't change parameter names.
 - What counts is the length of the function body, including `return` and the usage of parameters.
 - Random means uniformly distributed pseudo random.
+- Do not introduce global variables.
 
 ## The problems
 
@@ -32,4 +33,21 @@ Implement the following function:
 
     }
 
-Don't change the function signature, don't change parameter names, just implement the function body.
+Don't change the function signature, don't change parameter names, just implement the function body. Don't introduce global variables.
+
+
+### Get the largest unicode code point from a string
+
+Implement the following function:
+
+    /**
+     * Get the largest unicode code point.
+     *
+     * @param {string} s - A string
+     * @return {number} - The number value of the largest code point of all characters
+     */
+    function getMaxCodePoint(s) {
+
+    }
+
+Don't change the function signature, don't change parameter names, just implement the function body. Don't introduce global variables.
