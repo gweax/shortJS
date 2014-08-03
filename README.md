@@ -33,4 +33,21 @@ Implement the following function:
 
     }
 
-Don't change the function signature, don't change parameter names, just implement the function body.
+Don't change the function signature, don't change parameter names, just implement the function body. Don't introduce global variables.
+
+
+### Get the largest unicode code point from a string
+
+Implement the following function:
+
+    /**
+     * Get the largest unicode code point.
+     *
+     * @param {string} s - A string
+     * @return {number} - The number value of the largest code point of all characters
+     */
+    function getMaxCodePoint(s) {
+
+    }
+
+Don't change the function signature, don't change parameter names, just implement the function body. Don't introduce global variables.
