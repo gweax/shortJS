@@ -15,6 +15,7 @@ Sort of a JS1K with reversed goals. JS1k is to stuff as many presents as possibl
 - Only implement the function body. Don't change the signature. Don't change parameter names.
 - What counts is the length of the function body, including `return` and the usage of parameters.
 - Random means uniformly distributed pseudo random.
+- Don't create global variables. Don't modify native or host objects.
 
 ## The problems
 
